@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textGırıs">WELCOME</string>
+    <string name="editTextUserOld">User Name</string>
+    <string name="editTextPasswordOld">Password</string>
+    <string name="toastOne">Logged in</string>
+    <string name="toastTwo">Password and username cannot be blank</string>
+    <string name="toastTheree">Incorrect Username or Password Entered</string>
+    <string name="textSave">RESAVE</string>
+    <string name="editTextUserOldK">New User Name</string>
+    <string name="editTextPasswordOldK">New Password</string>
+    <string name="toastFırst">Your password can be up to 10 characters</string>
+    <string name="toastSecond">Recorded</string>
+    <string name="saveOldKm">Save</string>
+    <string name="saveOld">LOGİN</string>
+    <string name="errorOne">Username cannot be blank</string>
+    <string name="errorSecond">Password cannot be left blank</string>
+</resources>

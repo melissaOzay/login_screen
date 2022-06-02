@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">26.05.2022_Login</string>
+    <string name="textGırıs">HOŞGELDİNİZ</string>
+    <string name="editTextUserOld">Kullanıcı Adı</string>
+    <string name="editTextPasswordOld">Şifre</string>
+    <string name="saveOld">GİRİŞ</string>
+    <string name="toastOne">Giriş Yapıldı</string>
+    <string name="toastTwo">Şifre ve kullanıcı adı boş girilemez</string>
+    <string name="toastTheree">"Kullanıcı Adı veya şifre yanlış Girildi</string>
+    <string name="textSave">YENİDEN KAYDET</string>
+    <string name="editTextUserOldK">Yeni Kullanıcı Adı</string>
+    <string name="editTextPasswordOldK">Yeni Şifre</string>
+    <string name="saveOldKm">Kaydet</string>
+    <string name="toastFırst">Şifreniz en fazla 10 karakter olabilir</string>
+    <string name="toastSecond">Kayıt Yapıldı</string>
+    <string name="errorOne">Kullanıcı adı boş olmaz</string>
+    <string name="errorSecond">Şİfre boş olamaz</string>
+
+
+</resources>
